@@ -1,6 +1,6 @@
 # Road Traffic Accidents Analysis  
 
-Developed as part of the "Gauss" Student Society by [Dominik Kukla](https://github.com/DominikKukla), [Wojciech Kowal](https://github.com/WojtekKowal), and [Mariia Kopylova](https://github.com/marika731).<br>
+Developed as part of the Gauss Scientific Club by [Dominik Kukla](https://github.com/DominikKukla), [Wojciech Kowal](https://github.com/WojtekKowal), and [Mariia Kopylova](https://github.com/marika731).<br>
 This project analyzes the **"Road Traffic Accidents"** dataset from Kaggle using **Python**, **Pandas**, and **Plotly**.
 
 ## Dataset Overview  
